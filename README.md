@@ -27,6 +27,8 @@ Table of Contents
 - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
 - [Computational Biology](#computational-biology)
 - [Robotics](#robotics)
+- [Java](#java)
+- [Java EE](#javaee)
 - [Misc](#misc)
 
 Courses
@@ -707,6 +709,12 @@ Courses
 
 
 ----------------------------------
+###Java
+-[Java 8 Lambda Basics by JavaBrains](https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
+
+
+
+-----------------------------------
 
 ### Misc
 
