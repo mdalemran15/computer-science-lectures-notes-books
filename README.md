@@ -29,3 +29,7 @@ Table of Contents
 -[MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 
 -[UC Berkeley CS188 Intro to AI ](http://ai.berkeley.edu/home.html)
+
+-[Artificial Intelligence: A Modern Approach Third edition  by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/index.html)
+
+-[CSE 511A: Introduction to Artificial Intelligence – Fall 2017 Instructor: Professor Roman Garnett](http://www.cse.wustl.edu/~garnett/cse511a/)
