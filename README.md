@@ -8,7 +8,9 @@ Table of Contents
 
 -[Java EE](#JEE)
 
------------------------------
+-[Artificial Intelligence](#artificial-intelligence)
+
+-------------------------------------------------------------------------------------------------------------------
 
 ### Java 
 -[Java 8 Lambda Basics by Java Brains](https://www.youtube.com/watch?v=gpIUfj3KaOc&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3)
@@ -21,3 +23,7 @@ Table of Contents
 -[Oracle JEE 7 Documentation ](https://docs.oracle.com/javaee/7/tutorial/)
 
 -[Enterprise Courses By JavaBrains](https://www.youtube.com/user/koushks/playlists?shelf_id=8&view=50&sort=dd)
+
+
+### Artificial Intelligence
+-[MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
