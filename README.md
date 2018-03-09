@@ -17,13 +17,17 @@ Table of Contents
 
 -[JavaFX-LMS Project](https://www.youtube.com/watch?v=9d3X8eBov1M&list=PLhs1urmduZ29jTcE1ca8Z6bZNvH_39ayL)
 
-------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
 ### Java EE
 -[Oracle JEE 7 Documentation ](https://docs.oracle.com/javaee/7/tutorial/)
 
 -[Enterprise Courses By JavaBrains](https://www.youtube.com/user/koushks/playlists?shelf_id=8&view=50&sort=dd)
 
+
+----------------------------------------------------------------------------------------------------------------------------
 
 ### Artificial Intelligence
 -[MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
