@@ -27,4 +27,5 @@ Table of Contents
 
 ### Artificial Intelligence
 -[MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+
 -[UC Berkeley CS188 Intro to AI ](http://ai.berkeley.edu/home.html)
