@@ -1,6 +1,7 @@
 # computer-science-notes
 Tutorial ,lecture &amp; book collection of Computer Science
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 -[What every CS major should know?](http://matt.might.net/articles/what-cs-majors-should-know/)
 
@@ -14,6 +15,8 @@ Table of Contents
 -[Java EE](#JEE)
 
 -[Artificial Intelligence](#artificial-intelligence)
+
+-[CS Notes](#cs-notes)
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -42,3 +45,10 @@ Table of Contents
 -[Artificial Intelligence: A Modern Approach Third edition  by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/index.html)
 
 -[CSE 511A: Introduction to Artificial Intelligence – Fall 2017 Instructor: Professor Roman Garnett](http://www.cse.wustl.edu/~garnett/cse511a/)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### CS Notes
+
+-[E-Book of All CS Topic](http://books.goalkicker.com/)
+
