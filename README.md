@@ -12,7 +12,7 @@ Table of Contents
 
 -[Java](#java-se)
 
--[Java EE](#JEE)
+-[Java EE](#Java-EE)
 
 -[Artificial Intelligence](#artificial-intelligence)
 
