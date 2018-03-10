@@ -1,6 +1,11 @@
 # computer-science-notes
 Tutorial ,lecture &amp; book collection of Computer Science
 
+
+-[What every CS major should know?](http://matt.might.net/articles/what-cs-majors-should-know/)
+
+
+
 Table of Contents
 ---------------------------
 
