@@ -17,6 +17,8 @@ Table of Contents
 
 -[Artificial Intelligence](#artificial-intelligence)
 
+-[Networking](#networking)
+
 -[CS Notes](#cs-notes)
 
 -------------------------------------------------------------------------------------------------------------------
@@ -48,6 +50,14 @@ Table of Contents
 -[CSE 511A: Introduction to Artificial Intelligence – Fall 2017 Instructor: Professor Roman Garnett](http://www.cse.wustl.edu/~garnett/cse511a/)
 
 ----------------------------------------------------------------------------------------------------------------------------
+
+### Networking
+-[INE GNS3](https://www.youtube.com/playlist?list=PL3UpcvaDU_Fkfu9wnEBvF_XBR6KeMg8jv)
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
 
 ### CS Notes
 
